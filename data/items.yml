@@ -1,0 +1,49 @@
+title : "Categories"
+content: |
+ Pick your fight in one of the following nine categories!
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Poverty"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-hand-holding-usd"
+
+  # feature item loop
+  - name : "Hunger"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-wheat"
+    
+  # feature item loop
+  - name : "Health"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-clinic-medical"
+    
+  # feature item loop
+  - name : "Education"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-school"
+    
+  # feature item loop
+  - name : "Gender Equality"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-venus-mars"
+    
+  # feature item loop
+  - name : "Clean Water and Sanitation"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-water"
+    
+  # feature item loop
+  - name : "Clean Energy and Climate Action"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-plug"
+    
+  # feature item loop
+  - name : "Decent Work and Economic Growth"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-chart-line"
+    
+  # feature item loop
+  - name : "Justice"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-balance-scale"

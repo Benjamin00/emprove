@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Em⋅prove"
+subtitle: | 
+  A philanthropy platform; giving you the tools you need to help your community.
+content : |
+  <strong>Emprove</strong> is a new platform for all your local non-profits to assign tasks and give you flexibility on how and when you want to help your community. We help you "pick your fight" and connect you with a community of like minded members. 
+button:
+  label : "Get Started"
+  link : "#first"
+image : "/images/oceans.jpg"
+
