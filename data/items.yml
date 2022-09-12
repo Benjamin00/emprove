@@ -5,45 +5,46 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "Poverty"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Eradicate povertiy in your community and beyond"
     style : "style2 major fa-hand-holding-usd"
-
+    link : "/poverty"
   # feature item loop
   - name : "Hunger"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "End hunger, achieve food security and improve the nutrition of your community members "
     style : "solid style2 major fa-wheat"
+    link : "/poverty"
     
   # feature item loop
   - name : "Health"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Ensure healthy living for all"
     style : "solid style2 major fa-clinic-medical"
     
   # feature item loop
   - name : "Education"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all "
     style : "solid style2 major fa-school"
     
   # feature item loop
   - name : "Gender Equality"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Achieve gender equality and empower all women and girls"
     style : "solid style2 major fa-venus-mars"
     
   # feature item loop
   - name : "Clean Water and Sanitation"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Ensure availability and sustainable management of water and sanitation for all"
     style : "style2 major fa-water"
     
   # feature item loop
   - name : "Clean Energy and Climate Action"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Ensure access to affordable, and sustainable and modern energy for all, and combat climate change and its impacts "
     style : "solid style2 major fa-plug"
     
   # feature item loop
   - name : "Decent Work and Economic Growth"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all "
     style : "solid style2 major fa-chart-line"
     
   # feature item loop
   - name : "Justice"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"
     style : "solid style2 major fa-balance-scale"
