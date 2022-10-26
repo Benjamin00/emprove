@@ -12,7 +12,7 @@ items:
   - name : "Hunger"
     content : "End hunger, achieve food security and improve the nutrition of your community members "
     style : "solid style2 major fa-wheat"
-    link : "/poverty"
+    link : "/content/hunger.md"
     
   # feature item loop
   - name : "Health"
